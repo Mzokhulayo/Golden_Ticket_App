@@ -13,7 +13,7 @@ For Admins:
 Learners List: Admins have access to a list of learners with filtering options:
 
 Unenrolled learners
-Learners who haven't taken night driving lessons
+Learners who haven't taken driving lessons
 All learners
 Enrollment: Admins can enroll learners by selecting specific learners from the unenrolled list. This action assigns all relevant courses to the learner with default values (e.g., Status – Not Done, Units Taken – 0, Amount Paid – 0).
 
